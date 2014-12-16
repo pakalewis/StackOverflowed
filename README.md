@@ -3,7 +3,7 @@ Week 6 project for the Code Fellows iOS Development Accelerator
 This is a sample client app to access your Stack Overflow account.
 The user can log in and view their profile, search for questions by tag, and search for other users.
 __________________________________________________________________________________________
-!(https://github.com/pakalewis/StackOverFlowed/blob/master/screenshot.png)
+![](https://github.com/pakalewis/StackOverFlowed/blob/master/screenshot.png)
 __________________________________________________________________________________________
 
 
